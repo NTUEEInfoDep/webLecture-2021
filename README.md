@@ -4,11 +4,18 @@ Lecture material for 2021
 
 ## For the first time
 
-### Clone the repository to your computer
+### 1. Clone the repository to your computer
 
 ```bash
 cd whereYouWantToPut
 git clone https://github.com/NTUEEInfoDep/webLecture-2021.git
+```
+
+### 2. Switch to a new branch
+
+```bash
+git branch yourBranchName
+git checkout yourBranchName
 ```
 
 ## Before the lecture
