@@ -1,4 +1,5 @@
 # webLecture-2021
+
 Lecture material for 2021
 
 ## For the first time
@@ -17,3 +18,13 @@ git clone https://github.com/NTUEEInfoDep/webLecture-2021.git
 ```bash
 cd webLecture-2021
 git pull origin main
+```
+
+## After the lecture
+
+### Commit your changes
+
+```bash
+git add fileYouChanged
+git commit -n "add some message here"
+```
