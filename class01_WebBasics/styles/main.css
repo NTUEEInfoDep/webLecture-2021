@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+* {
+    font-family: Apple LiGothic Medium;
+}
+
+li {
+    line-height: 30px;
+}
+
+div.bor {
+    margin: 30px;
+
+    border-style: solid;
+    border-width: 4px;
+    border-color: white;
+    border-radius: 12px;
+
+    padding: 40px;
+}
