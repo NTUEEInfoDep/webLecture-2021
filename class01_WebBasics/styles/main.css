@@ -1,0 +1,16 @@
+.mypic {
+  width: 300px;
+  border-style: ridge;
+  border-width: 10px;
+}
+.Title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
+.Body {
+  justify-content: center;
+  align-items: center;
+  color: green;
+}
