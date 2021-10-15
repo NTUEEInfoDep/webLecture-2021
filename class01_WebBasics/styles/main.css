@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 50px;
+  margin: 0%;
+}
+ul {
+  color: rgb(154, 129, 93);
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.self_introduction {
+  padding-left: 200px;
+  padding-right: 200px;
+}
