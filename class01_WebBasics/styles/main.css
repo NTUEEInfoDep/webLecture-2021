@@ -1,0 +1,18 @@
+div img {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 400px;
+  display: block;
+  float: left;
+  max-width: 100%;
+}
+div p {
+  text-align: left;
+  color: lightskyblue;
+  font-size: 30px;
+}
+div li {
+  color: gray;
+  font-size: 32px;
+}
