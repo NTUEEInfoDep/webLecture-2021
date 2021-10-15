@@ -34,4 +34,5 @@ git pull origin main
 ```bash
 git add fileYouChanged
 git commit -n "add some message here"
+git push origin yourBranchName
 ```
