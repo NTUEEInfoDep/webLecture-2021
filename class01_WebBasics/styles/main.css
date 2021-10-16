@@ -1,0 +1,27 @@
+h1 h2 {
+  color: rgb(137, 139, 0);
+  font-weight: bold;
+}
+
+* {
+  text-align: center;
+}
+
+div.margin {
+  margin-top: 10px;
+  margin-right: 6px;
+  margin-bottom: 9px;
+  margin-left: 12px;
+}
+
+div.padding {
+  padding-top: 1px;
+  padding-right: 2px;
+  padding-left: 2px;
+  padding-bottom: 1px;
+}
+
+. div {
+  height: 300px;
+  width: 200px;
+}
