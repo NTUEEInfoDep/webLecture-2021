@@ -14,6 +14,7 @@ git clone https://github.com/NTUEEInfoDep/webLecture-2021.git
 ### 2. Switch to a new branch
 
 ```bash
+cd webLecture-2021
 git branch yourBranchName
 git checkout yourBranchName
 ```
@@ -33,6 +34,6 @@ git pull origin main
 
 ```bash
 git add fileYouChanged
-git commit -n "add some message here"
+git commit -m "add some message here"
 git push origin yourBranchName
 ```
