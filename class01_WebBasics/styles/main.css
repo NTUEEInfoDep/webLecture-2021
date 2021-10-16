@@ -1,18 +1,22 @@
 div img {
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
-  width: 400px;
+  width: 600px;
   display: block;
-  float: left;
-  max-width: 100%;
 }
 div p {
   text-align: left;
   color: lightskyblue;
-  font-size: 30px;
+  font-size: 28px;
+  display: block;
 }
-div li {
-  color: gray;
-  font-size: 32px;
+div ol {
+  color: lightsteelblue;
+  font-size: 28px;
+  display: block;
+}
+div ul {
+  color: black;
+  font-size: 28px;
+  display: block;
 }
