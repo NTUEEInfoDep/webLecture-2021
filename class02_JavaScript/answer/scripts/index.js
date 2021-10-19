@@ -11,13 +11,16 @@ btnLike.onclick = () => {
 };
 
 btnHate.onclick = () => {
-  if (count > 0) {
-    count -= 1;
+  count -= 1;
+  if (count < 0) {
+    text.innerText = `Like: ${count.toString()}. Too much hatred!`;
+  } else {
+    text.innerText = `Like: ${count.toString()}`;
   }
-  text.innerText = `Like: ${count.toString()}(Too much hatred!!!)`;
 };
 
 btnReset.onclick = () => {
   count = 0;
   text.innerText = `Like: ${count.toString()}`;
+  window.alert("Love and piece!!!");
 };
