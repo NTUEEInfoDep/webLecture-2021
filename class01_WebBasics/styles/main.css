@@ -1,17 +1,23 @@
-body{
-    background-color: lightgreen;
+body {
+  background-color: lightgreen;
 }
-h1*{
-    color: lightpink
-    text-align: center;
+<h1
+  style="color:lightpink; text-align:center;"
+  > This
+  is
+  a
+  heading</h1
+  > <p
+  style="color:red;"
+  > This
+  is
+  paragraph.</p
+  > p {
+  font-weight: bold;
+  font-size: 20px;
 }
-
-p{
-    font-weight: bold;
-    font-size: 20px;
-}
-img{
-    display: block;
+img {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
